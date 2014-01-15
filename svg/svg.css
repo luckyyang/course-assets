@@ -1,0 +1,7 @@
+.thumb {
+  stroke:#cccccc;
+  stroke-dasharray:none;
+  stroke-miterlimit:4;
+  stroke-width:0.1;
+  fill:red;
+}
